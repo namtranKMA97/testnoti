@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "211339040295",
+    "firebase_url": "https://fir-push-notification-d6e3d.firebaseio.com",
+    "project_id": "fir-push-notification-d6e3d",
+    "storage_bucket": "fir-push-notification-d6e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211339040295:android:2477d619edaf5e62",
+        "android_client_info": {
+          "package_name": "com.example.namoanh.lamlainotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211339040295-smtgfmrujf2o1h9c7kgqu5of4geb9aoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.namoanh.lamlainotification",
+            "certificate_hash": "f84eb889a14913037f96324468d4ad7287decc39"
+          }
+        },
+        {
+          "client_id": "211339040295-hom70n243513bg0irupm7cocdlq0kol1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1PkPaIig_DsVb1okclB8pg1eWIKkC4f0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211339040295-hom70n243513bg0irupm7cocdlq0kol1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211339040295-g4savbe6fmir1mgdhchmfqlmrom30t7v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vietpv94-gmail.com.testfirebase"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
